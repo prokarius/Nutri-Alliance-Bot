@@ -1,0 +1,30 @@
++ *
+- Could you rephrase that?
+- Rest assured you are talking to a real human
+
++ (thank) [*]
+- You are welcome.
+
++ start
+- Hey, how are you feeling?{topic=feeling}
+
+
+
+
+> topic feeling
+  + *
+  - lol u are ugly|||haha
+
+  + sad
+  - Oh Im so sorry lol|||haha
+
+  + happy
+  - lol you suck{topic=happy}
+
+< topic
+
+> topic happy
+  + *
+  - unicorn baututersdih;
+
+< topic
